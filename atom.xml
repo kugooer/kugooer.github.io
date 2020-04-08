@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kugooer 小屋</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.yoyozai.com/"/>
+  <updated>2020-04-08T06:32:52.750Z</updated>
+  <id>https://www.yoyozai.com/</id>
+  
+  <author>
+    <name>kugooer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020</title>
+    <link href="https://www.yoyozai.com/zh-CN/2020/04/08/ck8qyi0a00008c4p1n6l0z62a/"/>
+    <id>https://www.yoyozai.com/zh-CN/2020/04/08/ck8qyi0a00008c4p1n6l0z62a/</id>
+    <published>2020-04-08T06:32:52.000Z</published>
+    <updated>2020-04-08T06:32:52.750Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019年计划</title>
+    <link href="https://www.yoyozai.com/zh-CN/2019/04/11/ck8qyhzq40000c4p1e9oijn5v/"/>
+    <id>https://www.yoyozai.com/zh-CN/2019/04/11/ck8qyhzq40000c4p1e9oijn5v/</id>
+    <published>2019-04-11T02:32:30.000Z</published>
+    <updated>2019-04-12T06:46:28.113Z</updated>
+    
+    <summary type="html">
+    
+      Welcome to my blog, enter password to read.
+    
+    </summary>
+    
+    
+      <category term="2019" scheme="https://www.yoyozai.com/tags/2019/"/>
+    
+      <category term="个人" scheme="https://www.yoyozai.com/tags/%E4%B8%AA%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.yoyozai.com/zh-CN/2017/04/17/ck8qyi04r0006c4p1dnzy08g1/"/>
+    <id>https://www.yoyozai.com/zh-CN/2017/04/17/ck8qyi04r0006c4p1dnzy08g1/</id>
+    <published>2017-04-17T01:43:52.215Z</published>
+    <updated>2019-04-12T03:16:17.576Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
